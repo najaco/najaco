@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Connect with me
-<a href="https://twitter.com/nathancohen99"><img id="im" src="assets/twitter-fill.svg /></a>
+<!-- <a href="https://twitter.com/nathancohen99"><img id="im" src="assets/twitter-fill.svg /></a> -->
+[![Twitter](./assets/twitter-fill.svg)](https://twitter.com/nathancohen99)
