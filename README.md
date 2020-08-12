@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 ## Connect with me
 <!-- <a href="https://twitter.com/nathancohen99"><img id="im" src="assets/twitter-fill.svg /></a> -->
 [![Twitter](./assets/twitter-fill.svg)](https://twitter.com/nathancohen99)
+[![LinkedIn](./assets/linkedin-fill.svg)](https://www.linkedin.com/in/nathancohen99/)
+[![Mail](./assets/mail-fill.svg)](mailto:ncohen4299@gmail.com)
+
