@@ -1,8 +1,8 @@
 ## Welcome to the GitHub profile of Nathan Cohen
 
 - 🚂 I currently attend **Purdue University** 
-- 🎓 I will graduate in May 2021
-- 💻 I am a full stack developer
+- 🎓 I will graduate in **May 2021**
+- 💻 I am a **full stack developer**
 - 📹 My past research involves experimental methods of streaming video over UDP
 
 
