@@ -5,6 +5,7 @@
 - 💻 I am a **full stack developer**
 - 📹 My past research involves experimental methods of streaming video over UDP
 
+### Checkout my [resume](https://najaco.github.io/personal-website/static/media/resume_cohen.a9ab15f5.pdf)
 
 ## Connect with me
 [<img align="left" alt="Twitter" src="https://raw.githubusercontent.com/najaco/najaco/master/assets/twitter-fill.svg" />][twitter]
