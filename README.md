@@ -12,7 +12,7 @@
 [<img align="left" alt="LinkedIn | LinkedIn" src="https://raw.githubusercontent.com/najaco/najaco/master/assets/linkedin-box-fill.svg" />][linkedin]
 
 
-[<img align="left" alt="Instagram" src="https://raw.githubusercontent.com/najaco/najaco/master/assets/instagram-fill.svg" />][mailto]
+[<img align="left" alt="Instagram" src="https://raw.githubusercontent.com/najaco/najaco/master/assets/instagram-fill.svg" />][instagram]
 
 
 [<img align="left" alt="Mail" src="https://raw.githubusercontent.com/najaco/najaco/master/assets/mail-fill.svg" />][mailto]
