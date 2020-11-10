@@ -1,4 +1,4 @@
-## Welcome to the GitHub profile of Nathan Cohen
+## Hello! My name is Nathan (or Nate)
 
 - 🚂 I currently attend **Purdue University**, and will graduate in **May 2021**
 - 💻 I am a **full stack developer**
@@ -14,9 +14,7 @@
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 
-<!-- [<img align="left" alt="Mail" src="https://raw.githubusercontent.com/najaco/najaco/master/assets/mail-fill.svg" />][mailto] -->
 
 [linkedin]: https://www.linkedin.com/in/nathancohen99/
 [twitter]: https://twitter.com/nathancohen99
 [instagram]: https://www.instagram.com/nathan.cohen4299/
-<!-- [mailto]: mailto:ncohen4299@gmail.com -->
