@@ -2,7 +2,7 @@
 
 - 🚂 I currently attend **Purdue University**, and will graduate in **May 2021**
 - 💻 I am a **full stack developer**
-- 📹 My past research involves experimental methods of streaming video over UDP
+- 📹 My past research involves experimental methods of streaming video over UDP and [QUIC](https://www.chromium.org/quic)
 - 📄 Checkout my [resume](https://www.cs.purdue.edu/homes/cohen53/docs/resume_cohen.pdf)
 - ✉️ Reach me at [ncohen4299@gmail.com](mailto:ncohen4299@gmail.com)
 
