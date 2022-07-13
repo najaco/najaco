@@ -41,4 +41,4 @@
 ## Stats
 
 ### Most Used Languaages
-![najaco's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=najaco&layout=compact&theme=github_dark&hide_border=true&hide_title=true)
+![najaco's GitHub Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=najaco&layout=compact&theme=github_dark&hide_border=true&hide_title=true)
