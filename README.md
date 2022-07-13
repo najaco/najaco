@@ -32,6 +32,7 @@
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img align="left" alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
+<br />
 </div>
 
 
@@ -40,5 +41,5 @@
 
 ## Stats
 
-### Most Used Languages
-![najaco's GitHub Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=najaco&layout=compact&theme=github_dark&hide_border=true&hide_title=true)
+![najaco's GitHub stats](https://github-readme-stats.vercel.app/api?username=najaco&theme=github_dark&show_icons=true&hide_border=true)
+![najaco's GitHub Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=najaco&layout=compact&theme=github_dark&hide_border=true)
