@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Connect with me
-<!-- <a href="https://twitter.com/nathancohen99"><img id="im" src="assets/twitter-fill.svg /></a> -->
-<!-- [![Twitter](./assets/twitter-fill.svg)](https://twitter.com/nathancohen99)
-[![LinkedIn](./assets/linkedin-box-fill.svg)](https://www.linkedin.com/in/nathancohen99/)
-[![Mail](./assets/mail-fill.svg)](mailto:ncohen4299@gmail.com) -->
-
 [<img align="left" alt="Twitter" src="https://raw.githubusercontent.com/najaco/najaco/master/assets/twitter-fill.svg" />][twitter]
 
 [<img align="left" alt="LinkedIn | LinkedIn" src="https://raw.githubusercontent.com/najaco/najaco/master/assets/linkedin-box-fill.svg" />][linkedin]
