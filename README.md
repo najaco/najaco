@@ -12,10 +12,16 @@
 [<img align="left" alt="LinkedIn | LinkedIn" src="https://raw.githubusercontent.com/najaco/najaco/master/assets/linkedin-box-fill.svg" />][linkedin]
 
 
+[<img align="left" alt="Instagram" src="https://raw.githubusercontent.com/najaco/najaco/master/assets/instagram-fill.svg" />][mailto]
+
+
 [<img align="left" alt="Mail" src="https://raw.githubusercontent.com/najaco/najaco/master/assets/mail-fill.svg" />][mailto]
+
+
 
 
 
 [twitter]: https://twitter.com/nathancohen99
 [linkedin]: https://www.linkedin.com/in/nathancohen99/
+[instagram]: https://www.instagram.com/nathan.cohen4299/
 [mailto]: mailto:ncohen4299@gmail.com
