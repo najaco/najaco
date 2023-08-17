@@ -1,6 +1,6 @@
 ## Hello! My name is Nathan (or Nate)
 
-- 💻 I am a **software engineer** at Cisco Systems
+- 💻 I am a **software engineer** at Apple 🍎
 - 🚂 **Purdue University** alumni, May 2021
 - 📹 My past research involves experimental methods of streaming video over UDP and [QUIC](https://www.chromium.org/quic)
 - 📄 Checkout my [resume](https://najaco.github.io/najaco/resume_cohen.pdf)
