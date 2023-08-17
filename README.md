@@ -18,9 +18,6 @@
 [<img align="left" alt="Mail" src="https://raw.githubusercontent.com/najaco/najaco/master/assets/mail-fill.svg" />][mailto]
 
 
-
-
-
 [twitter]: https://twitter.com/nathancohen99
 [linkedin]: https://www.linkedin.com/in/nathancohen99/
 [instagram]: https://www.instagram.com/nathan.cohen4299/
