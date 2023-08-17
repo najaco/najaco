@@ -20,5 +20,11 @@ Here are some ideas to get you started:
 [![LinkedIn](./assets/linkedin-box-fill.svg)](https://www.linkedin.com/in/nathancohen99/)
 [![Mail](./assets/mail-fill.svg)](mailto:ncohen4299@gmail.com) -->
 
-[<img align="left" alt="Twitter | Twitter" width="22px" src="./assets/twitter-fill.svg" />][twitter]
-[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="./assets/linkedin-box-fill.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[twitter]: https://twitter.com/nathancohen99
+[linkedin]: https://www.linkedin.com/in/nathancohen99/
